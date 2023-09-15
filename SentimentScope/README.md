@@ -22,11 +22,9 @@ sentimentalstock is an open source stock market analysis software that uses Elas
 ### Download
 
 ```shell
-$ git clone https://github.com/shirosaidev/sentimentalstock.git
+$ git clone https://github.com/Malav5372/NLPAnalysis.git
 $ cd sentimentalstock
 ```
-[Download latest version](https://github.com/shirosaidev/sentimentalstock/releases/latest)
-
 ## Install - Docker
 
 *** **See [how to use](#how-to-use) below before building the Docker containers** ***

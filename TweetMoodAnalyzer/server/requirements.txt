@@ -1,0 +1,19 @@
+certifi
+Flask
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+h5py
+
+# Machine Learning libs
+Keras
+Keras-Preprocessing
+requests
+requests-oauthlib
+tensorflow
+tweepy
+
+# Extensions
+Flask-Cors

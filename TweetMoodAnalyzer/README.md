@@ -1,4 +1,4 @@
-# twitter-sentix-web-app
+# twittersentix-webapp
 
 <br>
 
@@ -19,6 +19,10 @@ The server pulls tweets using **tweepy** and performs inference using Keras. It 
 3. Run `docker-compose up --build` in the terminal from the root folder <br> (**Note:** _Ensure that you have Docker installed_)
 
 4. Open `http://localhost:3000` in your browser to access the app
+
+### working Gif:
+![working](https://github.com/Malav5372/NLPAnalysis/assets/144440737/8d490215-0042-4467-9001-94bf9ebba72e)
+
 
 ### Training the model
 

@@ -20,8 +20,7 @@ The server pulls tweets using **tweepy** and performs inference using Keras. It 
 
 4. Open `http://localhost:3000` in your browser to access the app
 
-### working Gif:
-![working](https://github.com/Malav5372/NLPAnalysis/assets/144440737/8d490215-0042-4467-9001-94bf9ebba72e)
+### Working - implementation is shown in gif format in imgs folder 
 
 
 ### Training the model

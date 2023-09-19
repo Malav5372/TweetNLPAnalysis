@@ -5,6 +5,11 @@
 ## Overview
 Welcome to the Twitter Sentiment and Emotion Analysis project, a flagship web application that harnesses the combined power of Python and JavaScript to provide in-depth insights into the sentiment and emotions expressed in Twitter conversations. In this comprehensive tool, we employ state-of-the-art machine learning techniques to analyze tweets, enabling users to understand the underlying sentiment (positive, negative, or neutral) and emotions (love, worry, happy, or hate) conveyed in the vast Twitterverse.
 
+1. Homepage: The Home Page to the web application
+
+https://github.com/Malav5372/NLPAnalysis/assets/144440737/076c508a-3346-4f85-a3aa-abc7f01cc0e5
+
+
 ## **Scroll Down to see Video Implementation Of the Project**
 
 ## Features
@@ -29,26 +34,22 @@ Real-Time Data Analysis
 
 ## Working Implementation
 
-1. Homepage: The Home Page to the web application
-
-https://github.com/Malav5372/NLPAnalysis/assets/144440737/076c508a-3346-4f85-a3aa-abc7f01cc0e5
-
-2. Sentiment Analysis type 1 : Performing Sentiment Analysis through 1st feature Type your Own Tweet
+1. Sentiment Analysis type 1 : Performing Sentiment Analysis through 1st feature Type your Own Tweet
 
 https://github.com/Malav5372/NLPAnalysis/assets/144440737/d41710cf-2a23-4f70-9f59-f1295e6e99b6
 
-3. Sentiment Analysis type 2 : Performing Sentiment Analysis through 2nd feature Importing live Tweet
+2. Sentiment Analysis type 2 : Performing Sentiment Analysis through 2nd feature Importing live Tweet
 
 https://github.com/Malav5372/NLPAnalysis/assets/144440737/14647262-24fb-4aba-921e-fd58a35f794f
 
-4. Emotion Analysis type 1 : Performing through 1st feature Type your Own tweet
+3. Emotion Analysis type 1 : Performing through 1st feature Type your Own tweet
 
 https://github.com/Malav5372/NLPAnalysis/assets/144440737/447f2d1f-600a-44c4-aa35-8f730c130427
 
 
 https://github.com/Malav5372/NLPAnalysis/assets/144440737/b7544e67-5402-4550-873e-ce193cd044bd
 
-5. Emotion Analysis type 2 : Performing through 2nd feature Import Live Tweet
+4. Emotion Analysis type 2 : Performing through 2nd feature Import Live Tweet
    
 
 https://github.com/Malav5372/NLPAnalysis/assets/144440737/044991d9-29a3-4b45-b3ab-489af8a516ea

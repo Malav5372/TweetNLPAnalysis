@@ -21,16 +21,15 @@ https://github.com/Malav5372/NLPAnalysis/assets/144440737/14647262-24fb-4aba-921
 
 4. Emotion Analysis type 1 : Performing through 1st feature Type your Own tweet
 
-example1-https://github.com/Malav5372/NLPAnalysis/assets/144440737/447f2d1f-600a-44c4-aa35-8f730c130427
+https://github.com/Malav5372/NLPAnalysis/assets/144440737/447f2d1f-600a-44c4-aa35-8f730c130427
 
 
-example2-https://github.com/Malav5372/NLPAnalysis/assets/144440737/b7544e67-5402-4550-873e-ce193cd044bd
+https://github.com/Malav5372/NLPAnalysis/assets/144440737/b7544e67-5402-4550-873e-ce193cd044bd
 
-5.Emotional
+5. Emotion Analysis type 2 : Performing through 2nd feature Import Live Tweet
    
 
-
-
+https://github.com/Malav5372/NLPAnalysis/assets/144440737/044991d9-29a3-4b45-b3ab-489af8a516ea
 
 
 ## Features

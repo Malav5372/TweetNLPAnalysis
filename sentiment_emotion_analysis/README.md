@@ -7,9 +7,30 @@ Welcome to the Twitter Sentiment and Emotion Analysis project, a flagship web ap
 
 ## Working Implementation
 
-### Homepage:
+1. Homepage: The Home Page to the web application
 
 https://github.com/Malav5372/NLPAnalysis/assets/144440737/076c508a-3346-4f85-a3aa-abc7f01cc0e5
+
+2. Sentiment Analysis type 1 : Performing Sentiment Analysis through 1st feature Type your Own Tweet
+
+https://github.com/Malav5372/NLPAnalysis/assets/144440737/d41710cf-2a23-4f70-9f59-f1295e6e99b6
+
+3. Sentiment Analysis type 2 : Performing Sentiment Analysis through 2nd feature Importing live Tweet
+
+https://github.com/Malav5372/NLPAnalysis/assets/144440737/14647262-24fb-4aba-921e-fd58a35f794f
+
+4. Emotion Analysis type 1 : Performing through 1st feature Type your Own tweet
+
+example1-https://github.com/Malav5372/NLPAnalysis/assets/144440737/447f2d1f-600a-44c4-aa35-8f730c130427
+
+
+example2-https://github.com/Malav5372/NLPAnalysis/assets/144440737/b7544e67-5402-4550-873e-ce193cd044bd
+
+5.Emotional
+   
+
+
+
 
 
 ## Features

@@ -38,4 +38,4 @@ My project stands out for its unique ability to fetch and analyze real-time data
 5. Flask: The web framework utilized for creating the backend of our web application.
 
 ## Dataset
-The ML model Passive Aggressive Classifier as this model is a standard for text-based processing and is trained on a comprehensive dataset comprising 25,744 tweets in CSV format. This dataset forms the bedrock upon which our sentiment and emotion analysis capabilities are built
+The ML model Passive Aggressive Classifier is used as this model is a standard for text-based processing and is trained on a comprehensive dataset comprising 25,744 tweets in CSV format. This dataset forms the bedrock upon which our sentiment and emotion analysis capabilities.

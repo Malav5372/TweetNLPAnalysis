@@ -1,6 +1,6 @@
 # Tweet Sentiment and Emotion Analysis
 
-< img src="https://github.com/Malav5372/NLPAnalysis/assets/144440737/895a1c2a-e9ed-4b7c-8ae6-fb4d46cd16bc" align="top" width="400px">
+<img src="https://github.com/Malav5372/NLPAnalysis/assets/144440737/895a1c2a-e9ed-4b7c-8ae6-fb4d46cd16bc" align="top" width="400px">
 
 
 ## Overview

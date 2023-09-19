@@ -41,3 +41,7 @@ My project stands out for its unique ability to fetch and analyze real-time data
 
 ## Dataset
 The ML model Passive Aggressive Classifier is used as this model is a standard for text-based processing and is trained on a comprehensive dataset comprising 25,744 tweets in CSV format. This dataset forms the bedrock upon which our sentiment and emotion analysis capabilities.
+
+### Dataset Screenshot:
+
+![Screenshot (17)](https://github.com/Malav5372/NLPAnalysis/assets/144440737/abd25836-0e3c-4a4e-b810-06c7bb8ace6c)

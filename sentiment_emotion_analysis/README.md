@@ -2,6 +2,8 @@
 
 ![1](https://github.com/Malav5372/NLPAnalysis/assets/144440737/39301d34-09f3-4fc2-a4b0-a5f3e72bbfd3)
 
+## NOTE- Due to the large number of files involved, the project folders containing HTML, CSS, JavaScript, and Python code have been compressed into zip files for easier upload to GitHub. You can access the individual files and their respective code within these zip files.
+
 ## Overview
 Welcome to the Twitter Sentiment and Emotion Analysis project, a flagship web application that harnesses the combined power of Python and JavaScript to provide in-depth insights into the sentiment and emotions expressed in Twitter conversations. In this comprehensive tool, we employ state-of-the-art machine learning techniques to analyze tweets, enabling users to understand the underlying sentiment (positive, negative, or neutral) and emotions (love, worry, happy, or hate) conveyed in the vast Twitterverse.
 

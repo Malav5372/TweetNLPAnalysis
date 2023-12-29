@@ -32,7 +32,7 @@ https://github.com/Malav5372/NLPAnalysis/assets/144440737/076c508a-3346-4f85-a3a
 
 Real-Time Data Analysis
 
-## Working Implementation
+## Demonstration
 
 1. Sentiment Analysis type 1 : Performing Sentiment Analysis through 1st feature Type your Own Tweet
 

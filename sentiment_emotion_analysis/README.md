@@ -34,22 +34,22 @@ Real-Time Data Analysis
 
 ## Demonstration
 
-1. Sentiment Analysis type 1 : Performing Sentiment Analysis through 1st feature Type your Own Tweet
+1. Sentiment Analysis type 1 : Performing Sentiment Analysis through 1st feature, Type your Own Tweet
 
 https://github.com/Malav5372/NLPAnalysis/assets/144440737/d41710cf-2a23-4f70-9f59-f1295e6e99b6
 
-2. Sentiment Analysis type 2 : Performing Sentiment Analysis through 2nd feature Importing live Tweet
+2. Sentiment Analysis type 2 : Performing Sentiment Analysis through 2nd feature, Importing live Tweet
 
 https://github.com/Malav5372/NLPAnalysis/assets/144440737/14647262-24fb-4aba-921e-fd58a35f794f
 
-3. Emotion Analysis type 1 : Performing through 1st feature Type your Own tweet
+3. Emotion Analysis type 1 : Performing through 1st feature, Type your Own tweet
 
 https://github.com/Malav5372/NLPAnalysis/assets/144440737/447f2d1f-600a-44c4-aa35-8f730c130427
 
 
 https://github.com/Malav5372/NLPAnalysis/assets/144440737/b7544e67-5402-4550-873e-ce193cd044bd
 
-4. Emotion Analysis type 2 : Performing through 2nd feature Import Live Tweet
+4. Emotion Analysis type 2 : Performing through 2nd feature, Import Live Tweet
    
 
 https://github.com/Malav5372/NLPAnalysis/assets/144440737/044991d9-29a3-4b45-b3ab-489af8a516ea
@@ -59,7 +59,7 @@ My project stands out for its unique ability to fetch and analyze real-time data
 
 ## Technology Stack
 
-1.Python: Our core programming language for building machine learning models, data processing, and natural language processing (NLP).
+1. Python: Our core programming language for building machine learning models, data processing, and natural language processing (NLP).
 
 2. JavaScript: Powering our interactive user interface and real-time data handling.
 

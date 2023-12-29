@@ -12,9 +12,6 @@ Welcome to the Twitter Sentiment and Emotion Analysis project, a flagship web ap
 
 https://github.com/Malav5372/NLPAnalysis/assets/144440737/076c508a-3346-4f85-a3aa-abc7f01cc0e5
 
-
-## **Scroll Down to see Video Implementation Of the Project**
-
 ## Features
 
 ### Sentiment Analysis
